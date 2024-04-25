@@ -60,7 +60,7 @@ Logistic Regression is a statistical technique used for predicting the outcome o
 3. <a href="Exer-Lat/exer3.ipynb">Exercise 3</a>
 4. <a href="Exer-Lat/2A_LAT_EXER4.ipynb">2A_LAT_EXER4</a>
 5. <a href="Exer-Lat/2A_LAT_EXER5.ipynb">2A_LAT_EXER5</a>
-6. <a href="Exer-Lat/2A-LAT_EXER6.ipynb">2A-LAT_EXER6</a>
+6. <a href="Exer-Lat/2A_LAT_EXER6.ipynb">2A_LAT_EXER6</a>
 7. <a href="Exer-Lat/2A_LAT_EXER7.ipynb">2A_LAT_EXER7</a>
 8. <a href="Exer-Lat/2A-LAT-MIDTERM.ipynb">2A-LAT-MIDTERM</a>
 
