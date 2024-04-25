@@ -11,8 +11,9 @@ Welcome to my compilation of activities in CSEL 302. Within these pages, you'll 
 2. [Probability and Statistics](#probability-and-statistics)
 3. [Linear Regression](#linear-regression)
 4. [Logistic Regression](#logistic-regression)
-5. [List of Exercises/Activities](#list-of-exercises/activities)
-. 
+5. [List of Exercises/Activities](#list-of-exercises-or-assessments)
+6. [Conclusion](#conclusion)
+   
 ##  Data Analysis and Visualization
 
 ### Data Collection and Preprocessing
@@ -52,7 +53,7 @@ A statistical method used in the field of data analysis and predictive modeling.
 ## Logistic Regression
 Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables.
 
-## List of Exercises/Activities 
+## List of the Exercises or Assessments
 
 1. <a href="Exer-Lat/exer1.ipynb">Exercise 1</a>
 2. <a href="Exer-Lat/BSCS2A_Group3.ipynb">Group Exercise 2</a>
