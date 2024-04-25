@@ -17,7 +17,9 @@ Welcome to my compilation of activities in CSEL 302. Within these pages, you'll 
 ##  Data Analysis and Visualization
 
 ### Data Collection and Preprocessing
+
 Data collection is the process of gathering information. This information could be anything from survey responses and observations to measurements and interviews.
+
 Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it.
 
 ### Exploratory Data Analysis (EDA)
@@ -34,18 +36,18 @@ EDA is acritical process in data analysis, and it serves as the initial step bef
 
 ## Probability and Statistics
 
-Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
+**Probability** implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
 
-In statistics, we use various measures to summarize and describe data. 
+**Statistics**, using various measures to summarize and describe data. 
 
-Four fundamental measures are:
+**Four fundamental measures are:**
 
 Mean (Average): It's the sum of all values divided by the number of values.
 Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values.
 Variance: It quantifies the spread or dispersion of data points from the mean.
 Standard Deviation: It's the square root of the variance and measures the average deviation from the mean.
 
-Data Visualizations can reveal patterns, trends, and insights that might be hard to see in raw data.
+**Data Visualizations** can reveal patterns, trends, and insights that might be hard to see in raw data.
 
 ## Linear Regression
 A statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors). 
@@ -58,31 +60,43 @@ Logistic Regression is a statistical technique used for predicting the outcome o
 1. <a href="Exer-Lat/exer1.ipynb">Exercise 1</a>
 2. <a href="Exer-Lat/BSCS2A_Group3.ipynb">Group Exercise 2</a>
 3. <a href="Exer-Lat/exer3.ipynb">Exercise 3</a>
-4. <a href="Exer-Lat/2A_LAT_EXER4.ipynb">2A_LAT_EXER4</a> [More](#assessment-task-4-predicting-grades-using-linear-regression)
-5. <a href="Exer-Lat/2A_LAT_EXER5.ipynb">2A_LAT_EXER5</a> [More](#assessment=task=5=bank=customer)
-6. <a href="Exer-Lat/2A_LAT_EXER6.ipynb">2A_LAT_EXER6</a> [More](#assessment-task-6-online-food-order-analysis)
-7. <a href="Exer-Lat/2A_LAT_EXER7.ipynb">2A_LAT_EXER7</a> [More](#assessment-task-7-netflix-userbase-analysis)
-8. <a href="Exer-Lat/2A-LAT-MIDTERM.ipynb">2A-LAT-MIDTERM</a> [More](#midterm-exam-assessment-task)
+4. <a href="Exer-Lat/2A_LAT_EXER4.ipynb">2A_LAT_EXER4</a>
+   [More](#assessment-task-4-predicting-grades-using-linear-regression)
+6. <a href="Exer-Lat/2A_LAT_EXER5.ipynb">2A_LAT_EXER5</a>
+   [More](#assessment=task=5=bank=customer)
+8. <a href="Exer-Lat/2A_LAT_EXER6.ipynb">2A_LAT_EXER6</a>
+    [More](#assessment-task-6-online-food-order-analysis)
+10. <a href="Exer-Lat/2A_LAT_EXER7.ipynb">2A_LAT_EXER7</a>
+    [More](#assessment-task-7-netflix-userbase-analysis)
+12. <a href="Exer-Lat/2A-LAT-MIDTERM.ipynb">2A-LAT-MIDTERM</a>
+    [More](#midterm-exam-assessment-task)
 
 ## Assessment Task 4 Predicting Grades using Linear Regression
 
 Activity: Predicting Student Grades
+
 Objective:
+
 Implement a linear regression model to predict student grades based on different academic and nonacademic factors.
 
 ## Assessment Task 5 Bank Customer
 
 Objective:
+
 Predict whether a customer will subscribe to a term deposit based on their demographic and account
+
 information using logistic regression.
 
 ## Assessment Task 6 Online Food Order Analysis
+
 Assessment Task: Predicting Feedback on Online Food Orders Using Logistic Regression
+
 Objective: Develop a logistic regression model to predict the customer feedback (positive/negative) on online food orders. This task involves data loading, preprocessing, exploratory data analysis (EDA), model building, evaluation, and visualization. 
 
 ## Assessment Task 7 Netflix Userbase Analysis
 
 Objective:
+
 Leverage linear regression to predict Monthly Revenue and logistic regression to classify customers based
 on a positive or negative feedback proxy, using the Netflix Userbase dataset. This task will encompass
 data preprocessing, exploratory data analysis (EDA), model building, evaluation, and visualization.
@@ -90,6 +104,7 @@ data preprocessing, exploratory data analysis (EDA), model building, evaluation,
 ## Midterm Exam Assessment Task
 
 Diabetes Dataset
+
 • Description: Comprises diagnostic measurements for a set of patients diagnosed with diabetes.
 • Use Case: Suitable for both Linear Regression (predicting a quantitative measure of disease
 progression) and Logistic Regression (classifying patients into categories based on diagnostic
