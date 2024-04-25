@@ -11,7 +11,7 @@ Welcome to my compilation of activities in CSEL 302. Within these pages, you'll 
 2. [Probability and Statistics](#probability-and-statistics)
 3. [Linear Regression](#linear-regression)
 4. [Logistic Regression](#logistic-regression)
-5. [List of Exercises/Activities](#list-of-exercises-or-assessments)
+5. [List of Exercises/Activities](#list-of-the-exercises-or-assessments)
 6. [Conclusion](#conclusion)
    
 ##  Data Analysis and Visualization
