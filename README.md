@@ -13,7 +13,7 @@ Welcome to my compilation of activities in CSEL 302. Within these pages, you'll 
 4. [Logistic Regression]{#logistic-regression}
 5. [List of Exercises/Activities]{#list-of-exercises/activities}
 . 
-##  1. Data Analysis and Visualization
+##  Data Analysis and Visualization
 
 ### Data Collection and Preprocessing
 Data collection is the process of gathering information. This information could be anything from survey responses and observations to measurements and interviews.
@@ -31,7 +31,7 @@ EDA is acritical process in data analysis, and it serves as the initial step bef
 2. Bar graphs
 3. Scatter plots
 
-## 2. Probability and Statistics
+## Probability and Statistics
 
 Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
 
@@ -46,10 +46,10 @@ Standard Deviation: It's the square root of the variance and measures the averag
 
 Data Visualizations can reveal patterns, trends, and insights that might be hard to see in raw data.
 
-## 3. Linear Regression
+## Linear Regression
 A statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors). 
 
-## 4. Logistic Regression
+## Logistic Regression
 Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables.
 
 ## List of Exercises/Activities 
