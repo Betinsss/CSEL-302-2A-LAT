@@ -7,11 +7,11 @@
 Welcome to my compilation of activities in CSEL 302. Within these pages, you'll discover my journey through various projects and activites aimed at honing my skills in deciphering data. From simple analyses to more complex investigations, each project represents a step forward in my understanding of the Data Analysis and Visualization, Probability & Statistics, Linear Regression, and Logistic Regression. 
 
 ## Table of Contents
-1. [Data Analysis and Visualization]{#data-analysis-and-visualization}
-2. [Probability and Statistics]{#probability-and-statistics}
-3. [Linear Regression]{#linear-regression}
-4. [Logistic Regression]{#logistic-regression}
-5. [List of Exercises/Activities]{#list-of-exercises/activities}
+1. [Data Analysis and Visualization](#data-analysis-and-visualization)
+2. [Probability and Statistics](#probability-and-statistics)
+3. [Linear Regression](#linear-regression)
+4. [Logistic Regression](#logistic-regression)
+5. [List of Exercises/Activities](#list-of-exercises/activities)
 . 
 ##  Data Analysis and Visualization
 
