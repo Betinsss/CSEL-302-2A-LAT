@@ -1,10 +1,10 @@
-#Activities and Project Compilation
+# Activities and Project Compilation
 
-##Introduction
+## Introduction
 
 Welcome to my compilation of student activities in CSEL 302. Within these pages, you'll discover my journey through various projects and activites aimed at honing my skills in deciphering data. From simple analyses to more complex investigations, each project represents a step forward in my understanding of the course. 
 
-#List of Exercises/Activities 
+# List of Exercises/Activities 
 
 1. <a href="Exer-Lat/exer1.ipynb">Exercise 1</a>
 2. <a href="Exer-Lat/BSCS2A_Group3.ipynb">Exercise 2</a>
