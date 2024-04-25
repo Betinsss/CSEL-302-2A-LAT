@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%2&fontSize=90" /> 
+
+
 # CSEL302-Introduction to Intelligent Systems
 
 # Activities and Project Compilation
@@ -113,6 +116,8 @@ measurements).
 
 # Conclusion
 As I conlcude this compilations of activities in data analysis, I'm grateful for the opportunities to delve into the world of numbers and insights. These projects have been instrumental in expanding my understanding of data's significance in today's landscape. Looking ahead, I'm excited to apply what I've learned and continue exploring the endless possibilities within this field.
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Thankyou%2&fontSize=90" /> 
 
 
 
