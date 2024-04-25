@@ -6,11 +6,11 @@ Welcome to my compilation of student activities in CSEL 302. Within these pages,
 
 #List of Exercises/Activities 
 
-1. <a href="Exer-Lat/exer1.ipynb">link text</a>
-2. <a href="Exer-Lat/BSCS2A_Group3.ipynb">link text</a>
-3. <a href="Exer-Lat/exer3.ipynb">link text</a>
-4. <a href="Exer-Lat/2A_LAT_EXER4.ipynb">link text</a>
-5. <a href="Exer-Lat/2A_LAT_EXER5.ipynb">link text</a>
-6. <a href="Exer-Lat/2A-LAT-EXER6.ipynb">link text</a>
-7. <a href="Exer-Lat/2A_LAT_EXER7.ipynb">link text</a>
-8. <a href="Exer-Lat/2A-LAT-MIDTERM.ipynb">link text</a>
+1. <a href="Exer-Lat/exer1.ipynb">Exercise 1</a>
+2. <a href="Exer-Lat/BSCS2A_Group3.ipynb">Exercise 2</a>
+3. <a href="Exer-Lat/exer3.ipynb">Exercise 3</a>
+4. <a href="Exer-Lat/2A_LAT_EXER4.ipynb">2A_LAT_EXER4</a>
+5. <a href="Exer-Lat/2A_LAT_EXER5.ipynb">2A_LAT_EXER5</a>
+6. <a href="Exer-Lat/2A-LAT-EXER6.ipynb">2A-LAT-EXER6</a>
+7. <a href="Exer-Lat/2A_LAT_EXER7.ipynb">2A_LAT_EXER7</a>
+8. <a href="Exer-Lat/2A-LAT-MIDTERM.ipynb">2A-LAT-MIDTERM</a>
